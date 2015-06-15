@@ -1,0 +1,3 @@
+[submodule "simple_keyword_code"]
+	path = simple_keyword_code
+	url = https://github.com/companyService/simple_keyword_code.git
